@@ -8,3 +8,4 @@
     Ngược lại tính và in ra kết quả
 6. Tính diện tích hình vuông (Có xử lý ngoại lệ đầu vào).
 7. Tính chu vi hình vuông (Có xử lý ngoại lệ đầu vào).
+8. Nhập vào năm sinh, tính tuổi.
