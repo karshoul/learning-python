@@ -6,3 +6,4 @@
     Có xử lý ngoại lệ đầu vào
     Nếu số b nhập là 0 thì hiện thị lỗi 'số chia không được nhập số 0' và exit() chương tình.
     Ngược lại tính và in ra kết quả
+6. Tính diện tích hình vuông (Có xử lý ngoại lệ đầu vào).
