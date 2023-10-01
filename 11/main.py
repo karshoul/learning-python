@@ -1,9 +1,10 @@
-numBer = int (input("Mời bạn nhập một số bất kì: "))
+numBer = int (input("Mời bạn nhập một số: "))
 tong = 0
 i = 1
 
-while i <= numBer:
+while(i <= numBer):
     tong+=i
     i+=1
 
-print(f"Tổng các số từ 1 đến {numBer} là: ", tong)
+print(f"Tổng các số từ 1 đến {numBer} là: ",tong)
+
