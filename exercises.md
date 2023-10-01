@@ -11,3 +11,4 @@
 8. Nhập vào năm sinh, tính tuổi.
 9. Nhập vào tuổi, tính năm sinh.
 10. Nhập vào số tháng, in ra màn hình tháng bằng chữ (Có xử lý ngoại lệ đầu vào vd: kiểm tra là số nguyên, kiểm tra số nguyên nhỏ hơn 1 hoặc lớn hơn 12 => In ra thông báo tương ứng và thoát chương trình)
+11. Viết một chương trình Python để tính tổng của dãy số từ 1 đến n (với n là số nhập từ bàn phím).
