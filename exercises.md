@@ -14,3 +14,9 @@
 11. Viết một chương trình Python để tính tổng của dãy số từ 1 đến n (với n là số nhập từ bàn phím).
 12. Viết một chương trình Python để in ra màn hình những số chắn của dãy số từ 1 đến n (với n là số nhập từ bàn phím).
 13. Viết một chương trình Python để in ra màn hình những số lẻ của dãy số từ 1 đến n (với n là số nhập từ bàn phím).
+14. Làm lại bài 10 nhưng sử dụng mảng để lưu các tháng.
+    VD: ten_thang = [
+    "Tháng một", "Tháng hai", "Tháng ba", "Tháng bốn",
+    "Tháng năm", "Tháng sáu", "Tháng bảy", "Tháng tám",
+    "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"
+    ]
