@@ -20,3 +20,4 @@
     "Tháng năm", "Tháng sáu", "Tháng bảy", "Tháng tám",
     "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"
     ]
+15. Nhập vào một chuỗi, đảo ngược các ký tự trong chuỗi và in ra màn hình ('abc' => 'cba')
