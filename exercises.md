@@ -21,3 +21,4 @@
     "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"
     ]
 15. Nhập vào một chuỗi, đảo ngược các ký tự trong chuỗi và in ra màn hình ('abc' => 'cba')
+16. Khai báo chuỗi strInit = 'hello', cho phép người dùng nhập chuỗi strInput. Kiểm tra strInput có trong strInit không và in ra kết quả (ví dụ strInput = 'lo' => In ra 'OK', ngược lại in ra 'Not')
