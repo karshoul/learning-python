@@ -1,10 +1,8 @@
-strInit = print("hello")
-strInit_array = ['h', 'e', 'l', 'o', 'he', 'hl', 'ho', 
-                 'eh', 'el', 'eo', 'lh', 'le', 'll', 'lo', 
-                 'oh', 'oe', 'ol', 'oo']
+strInit = "hello"
+print(strInit)
 strInput = input("Mời bạn nhập vào một chuỗi để kiểm tra: ")
 
-if (strInput in strInit_array):
+if strInput in strInit:
     print("Ok")
 else:
     print("Not")
