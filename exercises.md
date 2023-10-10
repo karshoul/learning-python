@@ -24,3 +24,4 @@
 16. Khai báo chuỗi strInit = 'hello', cho phép người dùng nhập chuỗi strInput. Kiểm tra strInput có trong strInit không và in ra kết quả (ví dụ strInput = 'lo' => In ra 'OK', ngược lại in ra 'Not')
 17. Nhập vào một chuỗi, in ra chuỗi đó với ký tự đầu và cuối giữ nguyên, còn lại chuyển thành dấu '*' (chuoi = 'xinchao' => 'x*****o')
 18. Nhập vào một chuỗi, in ra số lượng ký tự của chuỗi ('abc' => 3)
+19. Nhập vào một chuỗi, in ra số lượng ký tự số của chuỗi ('a2b23c' => 3)
