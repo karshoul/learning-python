@@ -27,3 +27,4 @@
 19. Nhập vào một chuỗi, in ra số lượng ký tự số của chuỗi ('a2b23c' => 3)
 20. Nhập vào một chuỗi, in ra chuỗi nhưng đã loại bỏ số trong chuỗi ('a2b23c' => 'abc')
 21. Nhập vào một chuỗi, in ra các ký tự trùng nhau trong chuỗi ('abcgac' => 'ac')
+22. Nhập vào một chuỗi, in ra các chuỗi đã loại bỏ các khoảng trắng ('abc g ac' => 'abcgac')
